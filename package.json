@@ -1,8 +1,23 @@
 {
-  "name": "js-lesson09-challenge-01-starter",
+  "name": "assign-a-potluck-dish",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple and intuitive web application that helps organize potluck events by managing guest lists and automatically assigning dishes to attendees.",
   "main": "index.html",
+  "author": "Asanag10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asanag10/assign-a-potluck-dish.git"
+  },
+  "homepage": "https://asanag10.github.io/assign-a-potluck-dish/",
   "dependencies": {},
-  "keywords": []
+  "keywords": [
+    "potluck",
+    "event-planning",
+    "guest-list",
+    "dish-assignment",
+    "javascript",
+    "web-app",
+    "party-planning"
+  ]
 }
